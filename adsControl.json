@@ -1,15 +1,9 @@
 {
   "ads_unites" : {
-    "_":"________/Chose_ad_network/________________________",
-    "NetworkAds":"applovin",
-    "dontShowAnyAds":"false",
-
-    "____":"________/interstitial_rules/________________________",
-    "MAX_NUMBER_INTER_SHOW" : 1,
-    "MAX_NUMBER_INTER_CLICK" : 1,
-    "RESTART_INTER_AFTER_MAX_CLICK" : -1,
-    "INTER_MIN_INTERVAL_SEC" : 120,
-    "showInterstitial":"true",
-    "showBanner":"true"
+    "NetworkAds" : "applovin",
+    "dontShowAnyAds" : "true",
+    "showInterstitial" : "true",
+    "showRewarded" : "true",
+    "showBanner" : "true"
   }
 }
